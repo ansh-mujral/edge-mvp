@@ -42,7 +42,7 @@ def enrich_with_game_stats(fantasy_filepath, output_filepath, season=2023):
     'player_display_name', 'recent_team', 'week',
     'headshot_url', 
     'carries', 'rushing_yards', 'rushing_tds',
-    'targets', 'receptions', 'receiving_yards', 'receiving_tds',
+    'targets', 'target_share', 'air_yards_share','receptions', 'receiving_yards', 'receiving_tds',
     'fantasy_points', 'fantasy_points_ppr'
     ]].copy()
 
