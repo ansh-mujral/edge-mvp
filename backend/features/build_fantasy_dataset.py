@@ -98,4 +98,4 @@ def enrich_all_positions(seasons):
 
 # === Run if script is executed ===
 if __name__ == "__main__":
-    enrich_all_positions([2023, 2024])
+    enrich_all_positions([2023, 2024, 2025])
